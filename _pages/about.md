@@ -52,6 +52,7 @@ CLRS / [Karger's 6.854 Advanced Algorithms](https://6.5210.csail.mit.edu/) Homew
 **[6.854 Advanced Algorithms: Splay Trees Solutions [WIP]](files/6854_splay_wip.pdf)** <br>
 Interesting Problems:
  - 1 d) - Proof that for \\(n \geq 4\\), any binary search tree on \\(n\\) nodes can be rotated to form any other binary search tree on \\(n\\) nodes via some sequence of splay operations.
+ - 2 - An alternate amortization argument. 
 
 
 **[CLRS Chapter 20: van Emde Boas Trees Solutions](files/clrs_ch20_veb.pdf)** <br>
