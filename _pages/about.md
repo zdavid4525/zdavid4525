@@ -9,7 +9,7 @@ redirect_from:
 
 I am an undergraduate student studying Computer Science and Statistics at the University of Toronto.
 
-I am interested in most areas of research in computer science connected to algorithms. In particular, I enjoy tackling problems whose solutions may be tricky to discover but are intuitive and easy to understand. I am currently exploring
+I am interested in most areas of research in computer science connected to algorithms. In particular, I enjoy tackling problems whose solutions may be tricky to discover but are ultimately intuitive and easy to understand and explain. I am currently exploring
   - Data Structures: Splay Trees, van Emde Boas Queues, Perfect Hashing, Fibonacci Heaps;
   - Online Algorithms: Dynamic Optimality, Finance, Scheduling.
 
