@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student studying Computer Science and Statistics at the University of Toronto.
+I am an undergraduate student studying Computer Science and Statistics at the University of Toronto, where I am fortunate to be supervised by [Allan Borodin](https://www.cs.toronto.edu/~bor/){:target="_blank"}.
 
 I am interested in most areas of research in computer science connected to algorithms. In particular, I enjoy tackling problems whose solutions may be tricky to discover but are ultimately intuitive and easy to understand and explain. I am currently exploring
   - Data Structures: Splay Trees, van Emde Boas Queues, Perfect Hashing, Fibonacci Heaps;
@@ -19,10 +19,14 @@ My resume is [here](files/David_Zhang_Resume.pdf).
 
 Work Experience
 ======
+**University of Toronto, Department of Computer Science** | Undergraduate Researcher
+  - June 2025 -- Present
+  - Supervisor: Prof. Allan Borodin
+
 **CIBC Capital Markets** | Software Engineer Intern
   - May 2024 -- Aug. 2024
 
-**University of Toronto, Department of Computer Science** | Research Assistant
+**University of Toronto, Department of Computer Science** | Undergraduate Researcher
   - May 2024 -- Aug. 2024
   - Supervisor: Prof. Annie Lee
 
@@ -53,6 +57,8 @@ CLRS / [Karger's 6.854 Advanced Algorithms](https://6.5210.csail.mit.edu/) Homew
 Interesting Problems:
  - 1 d) - Proof that for \\(n \geq 4\\), any binary search tree on \\(n\\) nodes can be rotated to form any other binary search tree on \\(n\\) nodes via some sequence of splay operations.
  - 2 - An alternate amortization argument. 
+ - 3 c) - A statically optimal (w.r.t splay trees) data structure.
+ - 3 d) - Iacono's Working Set.
 
 
 **[CLRS Chapter 20: van Emde Boas Trees Solutions](files/clrs_ch20_veb.pdf)** <br>
