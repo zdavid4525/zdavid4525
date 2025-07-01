@@ -21,14 +21,14 @@ Work Experience
 ======
 **University of Toronto, Department of Computer Science** | Undergraduate Researcher
   - June 2025 -- Present
-  - Supervisor: Prof. Allan Borodin
+  - Supervisor: Allan Borodin
 
 **CIBC Capital Markets** | Software Engineer Intern
   - May 2024 -- Aug. 2024
 
 **University of Toronto, Department of Computer Science** | Undergraduate Researcher
   - May 2024 -- Aug. 2024
-  - Supervisor: Prof. Annie Lee
+  - Supervisor: Annie Lee
 
 **CIBC Capital Markets** | Software Engineer Intern
   - May 2023 -- Aug. 2023
