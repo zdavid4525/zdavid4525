@@ -13,7 +13,7 @@ I am interested in most areas of research in computer science connected to algor
   - Data Structures: Splay Trees, van Emde Boas Queues, Perfect Hashing, Fibonacci Heaps;
   - Online Algorithms: Dynamic Optimality, Finance, Scheduling.
 
-My resume is [here](files/David_Zhang_Resume.pdf). 
+<!-- My resume is [here](files/David_Zhang_Resume.pdf).  -->
 
 <br/>
 
