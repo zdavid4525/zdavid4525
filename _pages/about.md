@@ -53,21 +53,21 @@ Teaching
 
 CLRS / [Karger's 6.854 Advanced Algorithms](https://6.5210.csail.mit.edu/) Homework Solutions
 ======
-**[6.854 Advanced Algorithms: Splay Trees Solutions [WIP]](files/6854_splay_wip.pdf)** <br>
+**[6.854 Advanced Algorithms: Splay Trees](files/6854_splay.pdf)** <br>
 Interesting Problems:
- - 1 d) - Proof that for \\(n \geq 4\\), any binary search tree on \\(n\\) nodes can be rotated to form any other binary search tree on \\(n\\) nodes via some sequence of splay operations.
+ - 1 d) - A proof that for \\(n \geq 4\\), any binary search tree on \\(n\\) nodes can be rotated to form any other binary search tree on \\(n\\) nodes via some sequence of splay operations.
  - 2 - An alternate amortization argument. 
  - 3 c) - A statically optimal (w.r.t splay trees) data structure.
  - 3 d) - Iacono's Working Set.
 
 
-**[CLRS Chapter 20: van Emde Boas Trees Solutions](files/clrs_ch20_veb.pdf)** <br>
+**[CLRS Chapter 20: van Emde Boas Trees](files/clrs_ch20_veb.pdf)** <br>
 Interesting Problems:
- - 20.1 f) - Proof that vEB trees that store clusters in hashtables use \\(\Theta(n \log \log u)\\) space.
+ - 20.1 f) - A proof that vEB trees that store clusters in hashtables use \\(\Theta(n \log \log u)\\) space.
  - 20.2 a-b) - \\(x\\)-fast tries.
  - 20.2 c-h) - \\(y\\)-fast tries.
 
-**[6.854 Advanced Algorithms: van Emde Boas Solutions](files/6854_veb.pdf)**
+**[6.854 Advanced Algorithms: van Emde Boas Trees](files/6854_veb.pdf)**
 
 <br/>
 
