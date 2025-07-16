@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student studying Computer Science and Statistics at the University of Toronto, where I am fortunate to be supervised by [Allan Borodin](https://www.cs.toronto.edu/~bor/){:target="_blank"}.
+I am an undergraduate student studying Computer Science at the University of Toronto, where I am fortunate to be supervised by [Allan Borodin](https://www.cs.toronto.edu/~bor/){:target="_blank"}.
 
-I am interested in most areas of research in computer science connected to algorithms. In particular, I enjoy tackling problems whose solutions may be tricky to discover but are ultimately intuitive and easy to understand and explain. I am currently exploring
+I am interested in most areas of research in computer science connected to algorithms. In particular, I enjoy tackling problems whose solutions may be tricky to discover but are intuitive and easy to understand and explain. I am currently exploring
   - Data Structures: Perfect Hashing, Fibonacci Heaps;
 
 <!-- My resume is [here](files/David_Zhang_Resume.pdf).  -->
