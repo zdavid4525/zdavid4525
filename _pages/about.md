@@ -68,6 +68,8 @@ Interesting Problems:
 
 **[6.854 Advanced Algorithms: van Emde Boas Trees](files/6854_veb.pdf)**
 
+**[CLRS Chapter 19: Fibonacci Heaps [WIP]](files/clrs_ch19_fib_heap_wip.pdf)** <br>
+
 <br/>
 
 Projects
