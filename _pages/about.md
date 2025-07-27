@@ -54,7 +54,7 @@ Some Fun Exercises
 ======
 **[6.854 Advanced Algorithms: Splay Trees](files/6854_splay.pdf)** <br>
 Interesting Problems:
- - 1 d) - A proof that for \\(n \geq 4\\), any binary search tree on \\(n\\) nodes can be rotated to form any other binary search tree on \\(n\\) nodes via some sequence of splay operations.
+ - 1 d) - A proof that any binary search tree on \\(n \geq 4\\) nodes can be rotated to form any other \\(n\\) node binary search tree via some sequence of splay operations.
  - 2 - An alternate amortization argument. 
  - 3 c) - A statically optimal (w.r.t splay trees) data structure.
  - 3 d) - Iacono's Working Set.
