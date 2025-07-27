@@ -50,7 +50,7 @@ Teaching
 
 <br/>
 
-CLRS / [Karger's 6.854 Advanced Algorithms](https://6.5210.csail.mit.edu/) Homework Solutions
+Some Fun Exercises
 ======
 **[6.854 Advanced Algorithms: Splay Trees](files/6854_splay.pdf)** <br>
 Interesting Problems:
@@ -68,7 +68,10 @@ Interesting Problems:
 
 **[6.854 Advanced Algorithms: van Emde Boas Trees](files/6854_veb.pdf)**
 
-**[6.854 Advanced Algorithms: Online Algorithms [WIP]](files/6854_online.pdf)** <br>
+**[6.854 Advanced Algorithms: Online Algorithms](files/6854_online.pdf)** <br>
+Interesting Problems:
+ - 3 - A derivation of the optimal probability distribution for randomized ski rental.
+ - 4 - Analyses of online learning algorithms.
 
 **[CLRS Chapter 19: Fibonacci Heaps [WIP]](files/clrs_ch19_fib_heap_wip.pdf)** <br>
 
