@@ -38,8 +38,8 @@ Experience
 
 Research
 ======
-**Online Randomness Extraction: Simulating Barely Random Algorithms in the Random Order Arrival Model** (under submission)
-Allan Borodin, Christodoulos Karavasilis, David Zhang
+**Online Randomness Extraction: Simulating Barely Random Algorithms in the Random Order Arrival Model** (under submission)\
+Allan Borodin, Christodoulos Karavasilis, David Zhang\
 [arXiv](files/rom_barelyrandom.pdf)
 
 Teaching
