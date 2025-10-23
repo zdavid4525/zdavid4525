@@ -16,7 +16,7 @@ I am interested in most areas of research in computer science connected to algor
 
 <br/>
 
-Work Experience
+Experience
 ======
 **University of Toronto, Department of Computer Science** | Undergraduate Researcher
   - June 2025 -- Present
@@ -34,8 +34,13 @@ Work Experience
 
 **Stealth Startup** | Software Engineer Intern
   - Jan. 2023 -- Mar. 2023
-
 <br/>
+
+Research
+======
+**Online Randomness Extraction: Simulating Barely Random Algorithms in the Random Order Arrival Model** (under submission)
+Allan Borodin, Christodoulos Karavasilis, David Zhang
+[arXiv](files/rom_barelyrandom.pdf)
 
 Teaching
 ======
