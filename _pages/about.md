@@ -34,6 +34,7 @@ Experience
 
 **Stealth Startup** | Software Engineer Intern
   - Jan. 2023 -- Mar. 2023
+
 <br/>
 
 Research
@@ -42,16 +43,16 @@ Research
 Allan Borodin, Christodoulos Karavasilis, David Zhang\
 [arXiv](files/rom_barelyrandom.pdf)
 
+<br/>
+
 Teaching
 ======
-**University of Toronto, CSC384 - Introduction to Artificial Intelligence** | Teaching Assistant
-  - Winter 2025
-
-**University of Toronto, CSC236 - Introduction to the Theory of Computation** \| Teaching Assistant
-  - Fall 2024
-
-**University of Toronto, CSC207 - Software Design** \| Teaching Assistant
-  - Fall 2024
+**University of Toronto** | Teaching Assistant
+  - CSC384 - Introduction to Artificial Intelligence
+  - CSC373 - Algorithm Design, Analysis & Complexity
+  - CSC324 - Principles of Programming Languages 
+  - CSC236 - Introduction to the Theory of Computation
+  - CSC207 - Software Design
 
 <br/>
 
